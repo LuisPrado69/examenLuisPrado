@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LuisPrado-examen</string>
+    <string name="action_settings">LuisPrado-examen</string>
+
+    <string name="login">Inicio de sesión</string>
+    <string name="userName">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+
+    <string name="name">Nombre</string>
+    <string name="startingAmount">Monto inicial</string>
+    <string name="calculate">Calcular</string>
+    <string name="save">GUARDAR</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="poll">Por favor responda a la siguiente encuesta</string>
+    <string name="pollOne">¿Por qué eligió este centro?</string>
+    <string name="pollTwo">¿Qué deportes practica?</string>
+    <string name="pollSoccer">Fútbol</string>
+    <string name="pollBasket">Basket</string>
+    <string name="pollVolley">Volley</string>
+    <string name="pollThree">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="btnPoll">Enviar respuestas</string>
+
+    <string name="qOne">Pregunta 1</string>
+    <string name="qTwo">Pregunta 2</string>
+    <string name="qThree">Pregunta 3</string>
+    <string name="qFour">Usuario Conectado</string>
+    <string name="qFive">Nombre</string>
+    <string name="qSix">Total a pagar</string>
+    <string name="userNameRes">estudiante2020</string>
+</resources>
